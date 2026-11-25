@@ -1,0 +1,11 @@
+region,population,branch_count
+North,850000,28
+South,620000,22
+East,740000,25
+West,690000,24
+Central,1200000,42
+Northeast,510000,18
+Northwest,430000,16
+Southeast,780000,27
+Southwest,560000,19
+Metro,1500000,55
